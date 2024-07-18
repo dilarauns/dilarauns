@@ -1,5 +1,5 @@
 # Hello, I'm Dilara. 
-Currently, I'm a Computer Engineering student at Bursa Technical University. Alongside my studies in Computer Engineering, I am continually enhancing and advancing myself in the field of **CyberSecurity**.
+
 
 ## Check out my Medium profile:
 
